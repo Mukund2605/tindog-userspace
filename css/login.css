@@ -1,0 +1,17 @@
+body {
+  font: 13px/20px "Lucida Grande", Tahoma, Verdana, sans-serif;
+  color: #404040;
+  background: #ff4c68;
+}
+.foryou {
+
+  margin: 30px auto;
+  padding: 50px 50px 50px;
+  width: 310px;
+  background: white;
+  border-radius: 3px;
+
+}
+.foryou p {
+  margin: 20px 0 0;
+}

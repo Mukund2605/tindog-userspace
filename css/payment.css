@@ -1,0 +1,19 @@
+body{
+  background-color: #ff4c68;
+}
+#payment{
+  text-align: center;
+ background-color: white;
+}
+h1{
+  font-family: Montserrat-bold;
+  color: white;
+}
+#footer{
+  text-align: center;
+  padding:40px;
+  font-family: "Montserrat-bold"
+}
+.social-button{
+  padding:20px 10px;
+}
